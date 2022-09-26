@@ -52,7 +52,7 @@
 	<meta property="og:description" content="<?php echo $page_description; ?>">
 	<meta name="theme-color" content="<?php echo $page_color_hex; ?>">
     <!-- Here you will find all the css the page uses -->
-	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<link rel="stylesheet" type="text/css" href="assets/styles/main.css">
     <!-- These are the scripts the page uses -->
 	<script src="assets/scripts/main.js" async defer></script>
 </head>
