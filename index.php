@@ -16,12 +16,12 @@
     # Easy to change variables for the title, description, and image
 
     $page_title = "title";
-    $page_keywords = "Dralle, dralle.me, rebuilding, website, brasseriemathisen, brasserie, mathisen, hotelranders, randers, hotel, denmark, danmark, dk"
+    $page_keywords = "Dralle, dralle.me, rebuilding, website, brasseriemathisen, brasserie, mathisen, hotelranders, randers, hotel, denmark, danmark, dk";
     $page_author = "Dralle";
     $page_description = "This website was made with ♥ by ". $page_author;
     $page_fav_icon = null;
     $page_image = null;
-    $page_link = "https://dralle.me/"
+    $page_link = "https://dralle.me/";
     $page_color_hex = random_color();
 
 ?>
